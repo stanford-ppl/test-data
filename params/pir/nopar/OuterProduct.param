@@ -1,6 +1,6 @@
 params {
-  ts1 = 32
-  ts2 = 32
+  tsA = 32
+  tsB = 32
   ip = 16
   op = 1
 }
