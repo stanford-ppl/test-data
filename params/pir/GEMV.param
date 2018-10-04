@@ -1,0 +1,9 @@
+nopar {
+  B = 32
+  T = 32
+  op = 1
+  mp = 1
+  ip = 16
+  Pblk = 1
+  Pelm = 16
+}

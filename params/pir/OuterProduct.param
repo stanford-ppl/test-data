@@ -1,4 +1,4 @@
-params {
+nopar {
   tsA = 32
   tsB = 32
   ip = 16
