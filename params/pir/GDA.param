@@ -1,7 +1,14 @@
 nopar {
-  ts = 20 (96 -> 19200)
-  op = 2 (1 -> 8)
-  mp = 2 (1 -> 8)
+  ts = 64
+  op = 1 (1 -> 8)
+  mp = 1 (1 -> 8)
   ip = 16 (1 -> 12)
-  subPar = ip
+  subPar = 16
+}
+smallpar {
+  ts = 64
+  op = 2 
+  mp = 2
+  ip = 16
+  subPar = 16
 }

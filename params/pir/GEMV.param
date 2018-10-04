@@ -7,3 +7,12 @@ nopar {
   Pblk = 1
   Pelm = 16
 }
+smallpar {
+  B = 32
+  T = 32
+  op = 2
+  mp = 2
+  Pblk = 2
+  ip = 16
+  Pelm = 16
+}

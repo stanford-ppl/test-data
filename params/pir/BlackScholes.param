@@ -3,3 +3,8 @@ nopar {
   op = 1
   ip = 16
 }
+smallpar {
+  ts = 1024
+  op = 2
+  ip = 16
+}

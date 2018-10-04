@@ -4,3 +4,9 @@ nopar {
   ip = 16
   lp = 16
 }
+smallpar {
+  ts = 64 
+  op = 2
+  ip = 16
+  lp = 16
+}
