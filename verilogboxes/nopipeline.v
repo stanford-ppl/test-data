@@ -1,4 +1,4 @@
-module nopipeline
+module delayer
   #( parameter WIDTH = 32,
      parameter LATENCY = 4 
    )
